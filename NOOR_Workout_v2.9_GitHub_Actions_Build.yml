@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths:
       - 'NOOR_Workout_v2.9_GitHub_Ready.zip'
-      - '.github/workflows/android.yml'
+      - .github/workflows/android.yml
 
 permissions:
   contents: read
